@@ -1,0 +1,13 @@
+{
+  "extends": "kentcdodds",
+  "rules": {
+    "linebreak-style": [
+      2,
+      "windows"
+    ],
+    "prettier/prettier": "error"
+  },
+  "plugins": [
+    "prettier"
+  ]
+}
